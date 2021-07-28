@@ -7,4 +7,9 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
+  siteMetadata: {
+    title: "Gatsby Page",
+    description: "my portfolio",
+    copyright: "copytight 2020",
+  },
 }
